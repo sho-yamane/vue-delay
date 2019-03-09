@@ -1,0 +1,24 @@
+{
+  "name": "vue-delay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sho-yamane/vue-delay.git"
+  },
+  "keywords": [
+    "vue",
+    "delay",
+    "sleep"
+  ],
+  "author": "Sho Yamane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sho-yamane/vue-delay/issues"
+  },
+  "homepage": "https://github.com/sho-yamane/vue-delay#readme"
+}
